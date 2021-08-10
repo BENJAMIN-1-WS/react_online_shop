@@ -5,11 +5,11 @@ module.exports = {
 	devtool: 'eval',
 	entry: path.resolve('src/index.js'),
 	output: {
-		path: path.resolve('/'),
+		path: path.resolve('dist'),
 		filename: 'bundle.js'
 	},
 	devServer: {
-		contentBase: path.join(__dirname, '/'),
+		contentBase: path.join(__dirname, 'dist'),
 		compress: true,
 		port: 9000,
 		historyApiFallback:true
