@@ -1,5 +1,5 @@
 
-**<h1 align="center">React Online Shop :iphone: </h1>**
+**<h1 align="center">React Online Shop :iphone: 🪙 </h1>**
 
 **Dev & Design**: 
 
