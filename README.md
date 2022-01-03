@@ -1,13 +1,14 @@
-
+<div align="center">
+ 
 **<h1 align="center">React Online Shop :iphone: 🪙 </h1>**
 
-**Dev & Design**: 
+**Description**: 
 
-> 	products page - UI of existing products on database, filter and access options for each and every product by router (front end). 
+• 	products page - UI of existing products on database, filter and access options for each and every product by router (front end). 
 
-> 	product cart page-  UI of existing products in the cart(front end) .
+• 	product cart page-  UI of existing products in the cart(front end) .
 
-> 	all components are wrapped in tests for errors that can occur when filling the cart. 
+• 	all components are wrapped in tests for errors that can occur when filling the cart. 
 
 
 
@@ -24,3 +25,6 @@
 `npm install`
 
 `npm start`
+ 
+ 
+</div>
